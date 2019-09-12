@@ -30,6 +30,6 @@ global class Quiver_Entity {
 	global class ResponseQuiver {
         global String ok {get;set;}
         global String error {get;set;}
-	}
+	} 
 
 }
